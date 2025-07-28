@@ -1,0 +1,41 @@
+ItemID,ItemName,Category,ItemType,QuantityInStock,Unit,UnitCost,ReorderPoint,Location,LeadTimeDays,LastReceived
+OFC-001,A4 Copy Paper,Paper,Consumable,120,reams,2.5,30,WH-A1-B,5,2025-04-30
+OFC-002,Stapler,Stationery,Durable,25,pcs,6.5,10,WH-A1-C,15,2025-04-22
+OFC-003,Ballpoint Pens (Blue),Writing,Consumable,300,boxes,1.2,50,WH-A1-D,7,2025-04-18
+OFC-004,Whiteboard Markers,Writing,Consumable,180,packs,3.0,40,WH-A2-A,10,2025-04-25
+OFC-005,Laser Printer,Equipment,Durable,3,pcs,180.0,1,WH-EQ-1,30,2025-03-12
+OFC-006,Printer Toner (Black),Consumable,Consumable,45,cartridges,35.0,10,WH-A2-B,14,2025-04-28
+OFC-007,Envelope C5,Mailing,Consumable,500,pcs,0.05,100,WH-M1,5,2025-05-02
+OFC-008,Projector,Equipment,Durable,4,pcs,250.0,1,WH-EQ-2,25,2025-02-20
+OFC-009,Sticky Notes,Stationery,Consumable,350,pads,0.8,60,WH-A1-E,7,2025-05-01
+OFC-010,Ethernet Cable 5m,IT Supplies,Durable,4,pcs,3.5,10,WH-IT-1,20,2025-04-15
+OFC-011,HDMI Cable,IT Supplies,Durable,113,pcs,6.0,10,WH-IT-1,5,2025-05-02
+OFC-012,Mouse Wireless,IT Supplies,Durable,401,pcs,12.5,15,WH-M1,12,2025-02-15
+OFC-013,Keyboard USB,IT Supplies,Durable,449,pcs,18.0,20,WH-M1,15,2025-03-03
+OFC-014,HDMI Cable,IT Supplies,Durable,467,pcs,6.0,10,WH-A2-B,13,2025-03-31
+OFC-015,Laptop Stand,Equipment,Durable,494,pcs,22.0,5,WH-IT-1,14,2025-03-29
+OFC-016,Mouse Wireless,IT Supplies,Durable,388,pcs,12.5,15,WH-A1-B,5,2025-04-21
+OFC-017,Mask Box,Health,Consumable,373,boxes,5.0,30,WH-EQ-2,12,2025-03-13
+OFC-018,Paper Clips,Stationery,Consumable,108,boxes,0.9,80,WH-A1-E,19,2025-04-23
+OFC-019,A3 Paper,Paper,Consumable,216,reams,4.5,20,WH-EQ-2,8,2025-04-22
+OFC-020,Paper Clips,Stationery,Consumable,202,boxes,0.9,80,WH-A1-C,7,2025-02-11
+OFC-021,Keyboard USB,IT Supplies,Durable,314,pcs,18.0,20,WH-A1-C,27,2025-04-15
+OFC-022,Tissue Roll,Toiletries,Consumable,498,rolls,0.6,100,WH-A2-A,28,2025-04-27
+OFC-023,Keyboard USB,IT Supplies,Durable,238,pcs,18.0,20,WH-A2-B,19,2025-03-03
+OFC-024,Mask Box,Health,Consumable,3,boxes,5.0,30,WH-A1-E,28,2025-03-13
+OFC-025,Laptop Stand,Equipment,Durable,81,pcs,22.0,5,WH-EQ-2,19,2025-03-05
+OFC-026,A3 Paper,Paper,Consumable,122,reams,4.5,20,WH-A1-E,29,2025-03-10
+OFC-027,File Folders,Stationery,Consumable,52,packs,2.5,40,WH-A2-A,9,2025-02-20
+OFC-028,A3 Paper,Paper,Consumable,75,reams,4.5,20,WH-A1-C,20,2025-03-01
+OFC-029,Mask Box,Health,Consumable,44,boxes,5.0,30,WH-A1-D,17,2025-03-14
+OFC-030,Mask Box,Health,Consumable,351,boxes,5.0,30,WH-A2-A,10,2025-04-30
+OFC-031,Mouse Wireless,IT Supplies,Durable,295,pcs,12.5,15,WH-M1,26,2025-02-13
+OFC-032,Paper Clips,Stationery,Consumable,9,boxes,0.9,80,WH-A1-C,16,2025-04-14
+OFC-033,Paper Clips,Stationery,Consumable,420,boxes,0.9,80,WH-IT-1,4,2025-04-13
+OFC-034,A3 Paper,Paper,Consumable,110,reams,4.5,20,WH-A1-B,29,2025-03-25
+OFC-035,Paper Clips,Stationery,Consumable,445,boxes,0.9,80,WH-EQ-1,5,2025-03-19
+OFC-036,Laptop Stand,Equipment,Durable,281,pcs,22.0,5,WH-EQ-2,20,2025-04-28
+OFC-037,HDMI Cable,IT Supplies,Durable,263,pcs,6.0,10,WH-A1-E,27,2025-04-06
+OFC-038,A3 Paper,Paper,Consumable,262,reams,4.5,20,WH-EQ-1,14,2025-03-08
+OFC-039,HDMI Cable,IT Supplies,Durable,266,pcs,6.0,10,WH-M1,6,2025-04-07
+OFC-040,Laptop Stand,Equipment,Durable,422,pcs,22.0,5,WH-A1-B,15,2025-04-08
